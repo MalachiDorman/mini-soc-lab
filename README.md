@@ -1,2 +1,2 @@
-#mini-soc-lab
+# mini-soc-lab
 This project documents the design and deployment of a small-scale Security Operations Center lab hosted in Proxmox. The environment uses Wazuh for endpoint monitoring, log collection, alerting, and security-event analysis, while Suricata provides network-based intrusion detection. Simulated attacks and suspicious activity were used to test alert generation, detection rules, and basic investigation workflows.
